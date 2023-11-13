@@ -337,9 +337,9 @@
             <v6Rtti>0</v6Rtti>
             <VariousControls>
               <MiscControls></MiscControls>
-              <Define>USE_HAL_DRIVER,STM32F407xx,ARM_MATH_CM4,__FPU_PRESENT,ARM_MATH_ROUNDING,ARM_MATH_MATRIX_CHECK</Define>
+              <Define>USE_HAL_DRIVER,STM32F407xx,USE_HAL_DRIVER,STM32F407xx,ARM_MATH_CM4,ARM_MATH_ROUNDING,ARM_MATH_MATRIX_CHECK</Define>
               <Undefine></Undefine>
-              <IncludePath>../Core/Inc;../Drivers/STM32F4xx_HAL_Driver/Inc;../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;../Middlewares/Third_Party/FreeRTOS/Source/include;../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS;../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F;../Drivers/CMSIS/Device/ST/STM32F4xx/Include;../Drivers/CMSIS/Include;../bsp;../device;../application;../config;../algorithm/DSP;../algorithm/LIB;../algorithm/Mahony;../algorithm/Memory;../algorithm/PID;../Drivers/485UART;../Drivers/CMSIS/DSP/Include;..\algorithm</IncludePath>
+              <IncludePath>../Core/Inc;../Drivers/STM32F4xx_HAL_Driver/Inc;../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;../Middlewares/Third_Party/FreeRTOS/Source/include;../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS;../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F;../Drivers/CMSIS/Device/ST/STM32F4xx/Include;../Drivers/CMSIS/Include;../bsp;../device;../application;../config;../algorithm/DSP;../algorithm/LIB;../algorithm/Mahony;../algorithm/Memory;../algorithm/PID;../Drivers/485UART;../Drivers/CMSIS/DSP/Include;../algorithm</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

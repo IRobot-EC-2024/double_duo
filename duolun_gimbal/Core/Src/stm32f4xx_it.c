@@ -230,7 +230,6 @@ void EXTI9_5_IRQHandler(void)
   */
 void TIM2_IRQHandler(void)
 {
-    counter++;
   /* USER CODE BEGIN TIM2_IRQn 0 */
 if(counter == 100)counter = 0;
  else
